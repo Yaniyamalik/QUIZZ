@@ -11,21 +11,6 @@ Requirements
 React (create-react-app)
 Axios (for fetching data from an API)
 CSS for basic styling
-Installation
-Step 1: Clone the repository
-bash
-Copy
-git clone https://github.com/yourusername/quizz.git
-cd quizz
-Step 2: Install dependencies
-bash
-Copy
-npm install
-Step 3: Start the development server
-bash
-Copy
-npm start
-Ensure that your local API (on http://localhost:3001/api/questions) is running and accessible for the app to fetch quiz questions.
 
 Usage
 When you first open the app, you will see a "Start Quiz" button. Click it to begin the quiz.
